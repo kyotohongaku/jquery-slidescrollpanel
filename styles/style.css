@@ -1,0 +1,6 @@
+@import url("../vendor/yui-cssreset.css");
+@import url("./generic.css");
+.demo a{cursor:pointer;color:#00f;display:block;margin-bottom:5px;}
+.demo a:hover{text-decoration:underline}
+.demo .demo-box{width:100%;height:300px;overflow:hidden;border:5px ridge #eee;position:relative;margin:0;padding:0;}
+.demo .demo-box .slidescrollpanel-content{border:1px solid #000;background:#eee}
